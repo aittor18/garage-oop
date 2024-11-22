@@ -1,7 +1,5 @@
 package org.ies.vehicles.model;
 
-import org.ies.vehicles.components.VehicleType;
-
 import java.util.Objects;
 
 public class Vehicle {
